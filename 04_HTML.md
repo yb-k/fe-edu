@@ -34,7 +34,7 @@
 
 > `meta` 태그는 웹서버와 페이지의 정보를 담고있기 때문에 한번쯤 살펴보는것이 좋습니다.
 >
-> 화면 관련 메타데이터 : `viewport`
+> 디바이스 관련 메타데이터 : `viewport`
 >
 > [Using the viewport meta tag to control layout on mobile browsers
 ](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
