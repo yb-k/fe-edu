@@ -18,6 +18,9 @@
 > 보안이 중요한 은행 관공서 같은 경우 커스텀 프로토콜을 사용하기도 합니다.
 
 
+<br/><br/>
+
+
 ## HTTP
 
 ![HTTP 통신](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdESwmr%2FbtrwmalkwIX%2FJOzV0iVcEfzFZ9jCmmE6m0%2Fimg.png)
@@ -27,6 +30,9 @@
 컴퓨터에서 브라우저를 키고 `IP`를 입력하면 브라우저는 `HTTP` 프로토콜을 사용하여 통신을 시도하는데
 
 이떄, 대상이 되는 단말기를 `서버`라고 표현합니다.
+
+<br/><br/>
+
 ### Web Server와 WAS
 
 웹 `백엔드` 개발에서 웹과 관련된 서버는 크게 두가지로 나누어지는데 아래와 같습니다.
@@ -40,6 +46,7 @@
 
 > 웹 서비스 개발시 화면을 렌더링하는 방식에 따라서 `CSR` 방식 또는 `SSR` 방식이라고도 한다.
 
+<br/><br/>
 
 ## HTTP 구조
 
@@ -55,6 +62,8 @@
   - 통신 데이터
 
 > `REST API`란?
+
+<br/><br/>
 
 ## 보안
 웹서핑을 해보다가 브라우저는 보안 경고 표시를 본 경험이 한번씩 있습니다.
@@ -72,12 +81,16 @@
 
  > 웹서버 적용
 
+ <br/><br/>
+
+
 ## 클라이언트 테스트 프로그램
 
 - PostMan
 
 - curl
 
+<br/><br/>
 
 # REFERENCE
 

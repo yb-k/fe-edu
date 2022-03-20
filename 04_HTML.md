@@ -7,6 +7,8 @@
 
 컨텐츠의 구조를 정의하는 `마크업 언어`입니다.
 
+<br><br>
+
 # 기본 문법
 
 ```html
@@ -15,6 +17,8 @@
 ```
 
 ![html grammar](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxvhzF%2FbtrwptXZA21%2F624iTpj7UBFvTKIW4LsfJK%2Fimg.png)
+
+<br><br>
 
 # 중요 요소
 
@@ -30,11 +34,13 @@
 
 > `meta` 태그는 웹서버와 페이지의 정보를 담고있기 때문에 한번쯤 살펴보는것이 좋습니다.
 >
-> 단말기 크기에 대한 메타이터 -`viewport`
+> 화면 관련 메타데이터 : `viewport`
 >
 > [Using the viewport meta tag to control layout on mobile browsers
 ](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
 
+
+<br><br>
 
 # Reference
 

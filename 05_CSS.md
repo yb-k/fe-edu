@@ -12,11 +12,15 @@ p {
 }
 ```
 
+<br><br>
+
 ## CSS 단위
 
 스타일에서 크기를 지정할때 사용하는 단위는 다양합니다.
 
 크게 `상대 길이 단위`와 `절대 길위 단위` 두가지로 분류됩니다.
+
+<br>
 
 ### 절대 길이 단위
 
@@ -24,6 +28,7 @@ p {
 
 `px`, `cm`, `mm`, `in`, `pt` 등이 있습니다.
 
+<br>
 
 ### 상대 길이 단위
 
@@ -44,6 +49,7 @@ p {
 
 > [CSS 값과 단위](https://developer.mozilla.org/ko/docs/Learn/CSS/Building_blocks/Values_and_units)
 
+<br><br>
 
 ## 크로스 브라우저
 
@@ -63,6 +69,8 @@ p {
 
 > `postcss autoprefixer`?
 
+<br><br>
+
 ## CSS 방법론
 
 `CSS` 설계 및 작성를 올바르게 함으로써 아래와 같은 효과를 기대해볼 수 있습니다.
@@ -72,11 +80,15 @@ p {
 - 확장성
 - **클래스명으로 무슨 의미인지 예측 가능하도록** (가독성)
 
+<br><br>
+
 ### 작성 방법
 - 적절한 의미 사용
 - 중첩 선택자
 - 모듈화
 - 명명 규칙 (방법론)
+
+<br>
 
 대표적으로 아래와 같은 방법론이 있습니다.
 |방법론|설명|특징
@@ -85,10 +97,12 @@ p {
 |OOCSS (Object Oriented CSS)|객체지향 설계방식|DRY코드(반복X)|
 |SMACSS (Scalable and Modular Architecture for CSS)|모듈화 설계방식|OOCSS + BEM (핵심 컨셉을 차용)|
 
+<br><br>
 
 ### 반응형 웹개발
 
-**미디어쿼리**
+#### 미디어쿼리
+
 
 화면 크기에 따른 스타일 적용
 
