@@ -1,16 +1,17 @@
 # frontend-edu
+
 FE 기본 교육
 
 [프론트엔드 로드맵](https://roadmap.sh/frontend)
 
-
 # 목표
-브라우저 동작원리와 실행환경을 이해하고  
+
+브라우저 동작원리와 실행환경을 이해하고
 
 `HTML`, `CSS`, `JS`를 이해하고 사용할 수 있다.
 
-
 # 목차
+
 - FE 개발자의 역할
   - 역할
   - 요구사항
@@ -35,11 +36,14 @@ FE 기본 교육
 - JS
   - 기초 및 팁
   - 개발자 도구를 활용한 디버깅
-
+- ES6
+- MODULE
+  - COMMONJS
+  - ESM
 - 앞으로의 개발 방향
-  
 
+# REFERENCE
 
-# REFERENCE 
-[MDN 웹문서](https://developer.mozilla.org/ko/)
-[PoiemaWeb](https://poiemaweb.com/)
+> [MDN 웹문서](https://developer.mozilla.org/ko/)
+>
+> [PoiemaWeb](https://poiemaweb.com/)
