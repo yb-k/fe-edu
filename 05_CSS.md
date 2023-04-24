@@ -1,14 +1,14 @@
 # CSS
 
-
 # 기본 개념
+
 Cascading Style Sheets(`CSS`)는 `HTML`이나 `XML`로 작성된 문서의 표시 방법을 기술하기 위한 **스타일 시트 언어**입니다.
 
 `CSS`는 요소가 화면, 종이, 음성이나 다른 매체 상에 어떻게 **렌더링**되어야 하는지 지정합니다.
 
 ```css
 p {
-  color: 'red'
+  color: "red";
 }
 ```
 
@@ -36,12 +36,12 @@ p {
 
 비교적 많이 사용하는 4가지는 아래와 같습니다.
 
-|단위|설명|
-|--|--|
-|em|요소의 글꼴 크기|
-|rem|루트 요소의 글꼴 크기|
-|vw|viewport 너비의 1%|
-|vh|viewport 높이의 1%|
+| 단위 | 설명                  |
+| ---- | --------------------- |
+| em   | 요소의 글꼴 크기      |
+| rem  | 루트 요소의 글꼴 크기 |
+| vw   | viewport 너비의 1%    |
+| vh   | viewport 높이의 1%    |
 
 > `%`(퍼센트)는 부모 요소의 길이를 기준으로 합니다.
 
@@ -83,6 +83,7 @@ p {
 <br><br>
 
 ### 작성 방법
+
 - 적절한 의미 사용
 - 중첩 선택자
 - 모듈화
@@ -103,7 +104,6 @@ p {
 
 #### 미디어쿼리
 
-
 화면 크기에 따른 스타일 적용
 
 ```css
@@ -112,5 +112,5 @@ p {
 @media (min-width:600px)  { /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */ }
 @media (min-width:801px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
 @media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ }
-@media (min-width:1281px) { /* hi-res laptops and desktops */ 
+@media (min-width:1281px) { /* hi-res laptops and desktops */
 ```
